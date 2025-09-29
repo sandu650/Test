@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/sandu650/Test/compare/v1.0.0...v1.1.0) (2025-09-29)
+
+
+### Features
+
+* Update App.js ([3a0d7a6](https://github.com/sandu650/Test/commit/3a0d7a6e4cc1336ddeb440d5010e7837a3c8d559))
+* Update App.js ([2bbd6a7](https://github.com/sandu650/Test/commit/2bbd6a7d9bd81f4babb5f443e756669df31eb7b4))
+
 ## 1.0.0 (2025-09-29)
 
 
