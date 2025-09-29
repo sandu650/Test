@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/sandu650/Test/compare/v0.3.0...v0.4.0) (2025-09-29)
+
+
+### Features
+
+* init ([65db0cb](https://github.com/sandu650/Test/commit/65db0cbcdc240289c9ef11d230b9799372485822))
+
 ## [0.3.0](https://github.com/sandu650/Test/compare/hello-react@v0.2.0...hello-react@v0.3.0) (2025-09-29)
 
 
